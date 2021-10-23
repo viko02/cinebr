@@ -305,22 +305,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 
-<title>[B][COLOR aquamarine][/COLOR][/B]</title>
-
-<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=</link>
-
-<thumbnail></thumbnail>
-
-<fanart>https://i.imgur.com/fyuWj37.jpeg</fanart>
-
-<info>[COLOR aquamarine][/COLOR]</info>
-
-</item>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-
 <title>[B][COLOR aquamarine]2 Coelhos (2012)[/COLOR][/B]</title>
 
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7b9f67dcd45c7dc719358a37b826dc6aa2d7815b</link>
